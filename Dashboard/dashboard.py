@@ -13,7 +13,7 @@ st.title('Imoveis em Blumenau')
 
 # Buscando os dados
 dados_imoveis_raw = pd.read_csv(
-    r'C:\Users\Rafael Tomé\OneDrive\Área de Trabalho\Analises\Portifólio de projetos\Projeto Imobiliaria\imoveis_limpo.csv')
+    r'https://github.com/Rafinhatome/Projeto-Imobiliaria/blob/main/Limpeza_dados/imoveis_limpo.csv')
 
 # Filtro de bairro
 bairros = ['Blumenau', 'Escola Agrícola', 'Velha', 'Victor Konder', 'Salto Weissbach',
