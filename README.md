@@ -1,6 +1,6 @@
 # Projeto Imobiliária
 
-Esse é um projeto muito interessante que desenvolvi para melhorar as minhas capacidades tecnicas, aprendizado e analise do mercado imobiliario na cidaded de Blumenauz/SC.
+Esse é um projeto muito interessante que desenvolvi para melhorar as minhas capacidades tecnicas, aprendizado e analise do mercado imobiliario na cidaded de Blumenau/SC.
 Todo o projeto foi realizado utilizando a linguagem de programação **Python**
 
 Esse projeto pode ser facilmente melhorado e otimizado, como tambem replicado para qualquer cidade ou imobiliária que tenha interesse.
